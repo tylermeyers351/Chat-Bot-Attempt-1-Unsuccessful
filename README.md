@@ -1,2 +1,2 @@
 ## Goals:
-- To make a small, fun project, that is a chat bot.
+- To make a chat bot! This is intended as being a small mini-project to see if I can implement...
